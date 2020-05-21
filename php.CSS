@@ -1,0 +1,30 @@
+
+.all{
+    
+  background-image: url('php.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+a:hover{
+    color:blue;
+    font-weight:bolder;
+    font-size:xx-large;
+    
+}
+.nav li {
+  display: inline-block;
+   background-color: orange;
+}
+
+ol{
+    list-style-type:decimal;
+  }
+  ul{
+    list-style-type:armenian
+    
+  }
+  
+  
